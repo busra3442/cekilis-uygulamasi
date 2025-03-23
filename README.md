@@ -2,7 +2,7 @@
 Bu proje java dilinde aldığım udemy kursunun yardımıyla yaptığım temel bir çekiliş uygulamasıdır.
 
 ## Projenin Amacı ✍🏻
-Proje temel olarak bilgisayardan seçilen bir txt dosyasını okuyup içerisindeki isimlerden random olarak bir çekliş yapıyor ve kazan isimleri 
+Proje temel olarak bilgisayardan seçilen bir txt dosyasını okuyup içerisindeki isimlerden random olarak bir çekliş yapıyor ve kazanan isimleri 
 bir liste halinde ekranda gösterip alkış sesi veriyor. Bu proje sayesinde kurs boyunca öğrendiklerimi uygulama imkanı buldum. 🚀
 
 ## Kullandığım Teknolojiler 👩🏻‍💻
